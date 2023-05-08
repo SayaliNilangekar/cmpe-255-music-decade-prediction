@@ -1,3 +1,10 @@
+# Team Members
+
+Ashutosh Patil
+Sagar Shashikant Sutar
+Satya Bhaskara Ganesh Susarla
+Sayali Nilangekar
+
 # User Guide  
 There are two Jupyter Notebook files in this repository: (1) 255_Project_Regression.ipynb & (2) 255_Project_Classification.ipynb
 
@@ -9,3 +16,6 @@ The dataset* necessary to run these files can be found at the following website:
 
 *NOTE: Due to the large file size of the dataset, we are unable to upload the dataset directly to GitHub. Therefore, please download the dataset from the aforementioned website.
 
+# Project Description
+
+Our project presents a regression and classification analysis of a subset of the Million Songs Dataset. We have attempted to use various regression models to successfully predict the release year of a song and also tried to use various classification models to categorize songs by decade based on various features given in the dataset linked below.
