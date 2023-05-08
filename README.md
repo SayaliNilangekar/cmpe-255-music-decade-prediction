@@ -7,5 +7,5 @@ There are two Jupyter Notebook files in this repository: (1) 255_Project_Regress
 
 The dataset* necessary to run these files can be found at the following website: https://archive.ics.uci.edu/ml/datasets/yearpredictionmsd 
 
-*NOTE: Due to the large file size of the dataset, we are unable to upload the dataset directly to GitHub. Therefore, please downlaod the dataset from the aforementioned website.
+*NOTE: Due to the large file size of the dataset, we are unable to upload the dataset directly to GitHub. Therefore, please download the dataset from the aforementioned website.
 
