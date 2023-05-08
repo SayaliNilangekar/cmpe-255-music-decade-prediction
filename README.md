@@ -1,9 +1,11 @@
-# 1  	Introduction
-## 1.1    Motivation
-Music is an essential aspect of human culture and has a significant impact on our daily lives. Understanding the patterns and trends in music over time can provide valuable insights into the evolution of music and its impact on society. The Million Song Dataset provides a wealth of information about popular music tracks, including their audio features and metadata. Predicting the release year and decade of a song based on its audio features can help us gain a better understanding of the trends and patterns in music over time.
-## 1.2    Objective
-The objective of this project is to develop a machine learning model that can accurately predict the release year and decade of a song based on its audio features. By analyzing the audio features of a song, we aim to extract meaningful patterns and trends that can be used to predict the year and decade of release.
-## 1.3    Literature/Market review
-There have been several studies that have explored the relationship between audio features and the release year of a song. For instance, a study by Thierry Bertin-Mahieux et al. (2011) used the Million Song Dataset to develop a model that can predict the year of a song based on its audio features. Another study by Daniel Gómez et al. (2018) used machine learning algorithms to predict the release year and genre of a song based on its audio features. These studies demonstrate the potential of using audio features to predict the release year and genre of a song.
- 
-In the market, there are several music recommendation systems that use machine learning algorithms to analyze user preferences and suggest songs. However, there are few systems that focus on predicting the release year and decade of a song based on its audio features. Therefore, our project has the potential to contribute to the development of more accurate and sophisticated music recommendation systems that can take into account the temporal aspects of music.
+# User Guide  
+There are two Jupyter Notebook files in this repository: (1) 255_Project_Regression.ipynb & (2) 255_Project_Classification.ipynb
+
+- 255_Project_Regression.ipynb: This file contains the code for running the regression analysis on the dataset
+
+- 255_Project_Classification.ipynb: This file contains the code for training and running classification models on the dataset
+
+The dataset* necessary to run these files can be found at the following website: https://archive.ics.uci.edu/ml/datasets/yearpredictionmsd 
+
+*NOTE: Due to the large file size of the dataset, we are unable to upload the dataset directly to GitHub. Therefore, please downlaod the dataset from the aforementioned website.
+
