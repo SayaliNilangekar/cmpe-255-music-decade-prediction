@@ -1,9 +1,9 @@
 # Team Members
 
-Ashutosh Patil
-Sagar Shashikant Sutar
-Satya Bhaskara Ganesh Susarla
-Sayali Nilangekar
+Ashutosh Patil <br>
+Sagar Shashikant Sutar <br>
+Satya Bhaskara Ganesh Susarla<br>
+Sayali Nilangekar <br>
 
 # User Guide  
 There are two Jupyter Notebook files in this repository: (1) 255_Project_Regression.ipynb & (2) 255_Project_Classification.ipynb
